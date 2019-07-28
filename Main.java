@@ -3,7 +3,7 @@ package ivan.samoylov;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(numFibonacci(2));
+       
         for(int i = 1; i < 30; i++){
             System.out.print(numFibonacci(i) + " ");
         }

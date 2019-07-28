@@ -7,6 +7,7 @@ public class Main {
         for(int i = 1; i < 30; i++){
             System.out.print(numFibonacci(i) + " ");
         }
+        
     }
 
     public static int numFibonacci(int i) {
